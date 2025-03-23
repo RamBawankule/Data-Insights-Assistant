@@ -1,3 +1,4 @@
 streamlit
 google-generativeai
 python-dotenv
+plotly==5.14.1
